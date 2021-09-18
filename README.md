@@ -5,7 +5,7 @@ operations:
  - encode the decoded text.
  - prints both of them.
  
-#usage : 
+# usage 
 - decreases the size of text when sending and storing it.
 - also it can show a security way in transfering the texts by decoding the text.
  
